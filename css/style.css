@@ -87,3 +87,12 @@ background-color: #4d5ae5;
 .people-item {
     background-color: #f4f4fd;
 }
+
+.logo-portfolio {
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11111;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
