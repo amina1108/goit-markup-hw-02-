@@ -83,12 +83,12 @@ box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 background-color: #4d5ae5;
 }
 
-.logo-people,
-.people-item {
+.title-people {
+text-align: center;
     background-color: #f4f4fd;
 }
 
-.logo-portfolio {
+.portfolio-title {
 font-weight: 700;
 font-size: 36px;
 line-height: 1.11111;
@@ -96,3 +96,15 @@ letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
 }
+
+.footer-list {
+    color: #f4f4fd;
+}
+
+
+
+.title-people {
+    text-align: center;
+    background-color: #f4f4fd;
+}
+
